@@ -32,7 +32,7 @@ datos.
     Telecom-Churn/
     │
     ├── Telecom_X_Parte_2.ipynb        # Cuaderno principal con todo el análisis
-    ├── datos_tratados.csv             # Dataset limpio y preparado
+    ├── datos_tratados_ingles.csv             # Dataset limpio y preparado
     ├── visualizaciones/               # Carpeta opcional con gráficos exportados
     └── README.md                      # Documentación del proyecto
 
