@@ -32,8 +32,13 @@ datos.
     Telecom-Churn/
     │
     ├── Telecom_X_Parte_2.ipynb        # Cuaderno principal con todo el análisis
-    ├── datos_tratados_ingles.csv             # Dataset limpio y preparado
-    ├── visualizaciones/               # Carpeta opcional con gráficos exportados
+    ├── datos_tratados_ingles.csv      # Dataset limpio y preparado
+        ├── Matriz_Corerelacion.png
+        ├── Tiempo_Contrato_vs_Cancelacion
+        ├── Distribucion_Tenure_segun_Cancelacion
+        ├── Proporcion_Cancelacion_Cliente
+        └── Curva_Roc_Regresion_Lineal
+        
     └── README.md                      # Documentación del proyecto
 
 ------------------------------------------------------------------------
